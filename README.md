@@ -34,7 +34,7 @@
 
 ### Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migueldsc123&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/Migueldsc123?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migueldsc12&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/Migueldsc12?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueldsc123&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/Migueldsc123?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueldsc12&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/Migueldsc12?tab=repositories)
 
