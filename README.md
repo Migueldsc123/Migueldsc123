@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
     <h1 align="center">Hello World! I'm Miguel Salomon</h1>
-        <h3 align="center">I'm a Computer engineering student at Simón Bolívar University. Responsible and motivated to constantly develop my skills.</h3>
+        <h3 align="center">I'm a Computer engineer from Simón Bolívar University. Responsible and motivated to constantly develop my skills.</h3>
 
 </div>
 
@@ -12,8 +12,6 @@
 </div>
 
 ### About me:
-
-- 🔭 I’m currently studying Software engineer at Simon Bolivar University.
 
 - 👀 I’m interested in a data structures and algorithms, Cyber Security and I.A
 
